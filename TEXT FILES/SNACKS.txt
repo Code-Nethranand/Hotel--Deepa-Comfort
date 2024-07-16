@@ -1,0 +1,12 @@
+FOOD  CODE	FOOD  NAME	                COST
+
+01	        Samosa (2 Piece)		40
+02	        Bread Pakora			50
+03	        Vada pav (2 Piece)		40
+04	        Grilles Sandwich		55
+05	        Cheese Sandwich			60
+06	        Matar Kachori (2 Piece)		50
+07	        Aloo Chaat			45
+08	        Fish finger			70
+09	       	Chicken Majestic		80
+

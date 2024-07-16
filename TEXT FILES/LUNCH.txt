@@ -1,0 +1,21 @@
+FOOD  CODE	FOOD  NAME		COST
+
+01		Onion Pakora		45
+02		Chicken Tandori		70
+03		Veg. Dum Biryanai	85
+04		White rice		75
+05		Chicken Briyani		115
+06		Butter Naan		35
+07		Plain Naan		30
+08		Butter Roti		30
+09		Plain Roti		25
+10		Aloo Gobi Masala	155
+11		Paneer Butter Masala	185
+12		Dal Makhani		170
+13		Chana Masala		165
+14		Dal Fry			160
+15		Chicken Rogan Josh	205
+16		Chicken Tikka Masala	220
+17		Gulab Jamun (4 piece)	60
+18		Pudding			70
+19		Ice Cream (1 bowl)	35

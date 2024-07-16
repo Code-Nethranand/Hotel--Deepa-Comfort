@@ -1,0 +1,23 @@
+FOOD  CODE	FOOD  NAME		COST
+
+01		Masala Papad		30
+02		Gobi Manchurian		65
+03		Chicken Tandori		70
+04		Veg. Dum Biryanai	85
+05		White rice		75
+06		Chicken Briyani		115
+07		Butter Naan		35
+08		Plain Naan		30
+09		Butter Roti		30
+10		Plain Roti		25
+11		Aloo Gobi Masala	155
+12		Paneer Butter Masala	185
+13		Mix Veg			170
+14		Chana Masala		165
+15		Dal Fry			160
+16		Fish Curry		215
+17		Chicken Tikka Masala	220
+18		Gulab Jamun (4 piece)	60
+19		Pudding			70
+20		Ice Cream (1 bowl)	35
+
